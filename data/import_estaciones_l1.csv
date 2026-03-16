@@ -1,1 +1,19 @@
 linea_codigo,estacion_codigo,nombre,orden_en_linea,es_terminal,es_transbordo,lat,lon,municipio,sector,direccion_referencia,fuente,fuente_url,observaciones
+
+linea_codigo,estacion_codigo,nombre,orden_en_linea,es_terminal,es_transbordo,lat,lon,municipio,sector,direccion_referencia,fuente,fuente_url,observaciones
+L1,L1-01,Mamá Tingó,1,true,false,,,Santo Domingo Norte,Villa Mella,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-02,Gregorio Urbano Gilbert,2,false,false,,,Santo Domingo Norte,Villa Mella,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-03,Gregorio Luperón,3,false,false,,,Santo Domingo Norte,Villa Mella,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-04,José Francisco Peña Gómez,4,false,false,,,Santo Domingo Norte,Villa Mella,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-05,Hermanas Mirabal,5,false,false,,,Santo Domingo Norte,Villa Mella,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-06,Máximo Gómez,6,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-07,Los Taínos,7,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-08,Pedro Livio Cedeño,8,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-09,Peña Batlle,9,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-10,Amin Abel Hasbún,10,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-11,Francisco Gregorio Billini,11,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-12,Juan Pablo Duarte,12,false,true,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,Conexión con Línea 2
+L1,L1-13,Joaquín Balaguer,13,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-14,Amín Abel,14,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-15,José Joaquín Puello,15,false,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
+L1,L1-16,Centro de los Héroes,16,true,false,,,Santo Domingo,Distrito Nacional,,OPRET,https://www.opret.gob.do/Servicios/Transportaci%C3%B3n,
